@@ -1,0 +1,58 @@
+
+header{
+    text-align: justify;
+    position: fixed;
+    top: 0;
+    
+    min-height: 75px;
+    padding: 0px 348px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #b382b5;
+  }
+    h1{
+       font-size:40px;    
+    } 
+  
+  
+  
+  .nav-link{
+    font-size:22px;
+    
+  }
+  .content{
+    background-color:seagreen;
+    font-size:22px;
+      padding:0px 348px;
+      min-height: 75px;
+    text-align:center;
+    color:orange;
+  }
+  h2{
+    color:purple;
+  }
+  #video{
+    color:white;
+  }
+  #form{
+       text-align:center; 
+       color:purple;
+       font-size:22px;
+       background-color:pink;
+       
+       padding:0px 340px;
+  }
+  #submit{
+    color:blue;
+    background-color:gray;
+    border:none;
+  }
+  @media screen and (min-width:10px)
+  {
+    #email{
+          backgound-color:gray: 
+    } 
+    }
+  
+  
